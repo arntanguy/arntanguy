@@ -8,7 +8,7 @@
   <a href="mailto:arn.tanguy@gmail.com?subject=Hello Arnaud"><img src="https://github.com/arntanguy/arntanguy/blob/main/social-icons/Google.png" width="3.75%" height="3.75%" alt="Gmail"></a>
   <a href="https://www.strava.com/athletes/71520559"><img src="https://github.com/arntanguy/arntanguy/blob/main/social-icons/Strava.png" width="4%" height="4%" alt="Strava"></a>
    <a href="https://jrl-umi3218.github.io/mc_rtc"><img src="https://github.com/arntanguy/arntanguy/blob/main/logo.png" width="4%" height="4%" alt="mc_rtc"></a>
-
+   <a href="https://arntanguy.github.io/blog/"><img src="https://github.com/arntanguy/blog/blob/master/assets/img/favicon/favicon.ico" title="Blog" width="4%" height="4%" alt="mc_rtc"></a>
 </p>
 
 <!--
