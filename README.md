@@ -1,5 +1,4 @@
 [![Arnaud's github stats](https://github-readme-stats.vercel.app/api?username=arntanguy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Arnaud's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arntanguy&hide=javascript&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://github.com/arntanguy/"><img src="https://github.com/arntanguy/arntanguy/blob/main/social-icons/Github.png" width="4.25%" height="4.25%" alt="Github"></a>
